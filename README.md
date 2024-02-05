@@ -14,4 +14,4 @@ import numpy as np
 4. Check dataset using EDA
 5. Preprocessing dataset
 6. Try different models
-7. Evaluate the model performance by testing
+7. Evaluate the model performance (loss and accuracy) by testing
